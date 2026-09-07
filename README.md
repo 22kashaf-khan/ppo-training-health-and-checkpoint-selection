@@ -2,7 +2,7 @@
 
 A full pipeline for training a locomotion policy, evaluating it with proper
 statistics, and testing how it holds up outside the exact conditions it was
-trained on — built to demonstrate not just that a policy can be trained, but
+trained on built to demonstrate not just that a policy can be trained, but
 that its results can be trusted, questioned, and verified.
 
 ## What this project demonstrates

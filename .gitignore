@@ -1,2 +1,5 @@
 ﻿venv/
 models_full/
+
+__pycache__/
+*.pyc
